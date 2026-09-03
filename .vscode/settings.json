@@ -1,0 +1,15 @@
+{
+    "cSpell.enabled": true,
+    "cSpell.language": "en,es",
+    "cSpell.words": [
+        "dotnet",
+    ],
+    "cSpell.ignorePaths": [
+        "/.gitignore",
+    ],
+
+    "dotnet.defaultSolution": "Person.sln", // ← Renombrar para que coincida con la solución
+    "github.copilot.enable": {
+        "*": false
+    },
+}
